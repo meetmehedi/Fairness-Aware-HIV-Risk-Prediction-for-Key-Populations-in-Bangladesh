@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Digital-Transformation-for-Sustainable-Universities] ([https://github.com/meetmehedi/AstroVision.html](https://github.com/meetmehedi/Digital-Transformation-for-Sustainable-Universities))
+- 🔭 I’m currently working on [Digital-Transformation-for-Sustainable-Universities] ([[[https://github.com/meetmehedi/AstroVision.html](https://github.com/meetmehedi/Digital-Transformation-for-Sustainable-Universities/tree/main)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
